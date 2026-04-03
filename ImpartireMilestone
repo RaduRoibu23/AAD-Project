@@ -1,0 +1,24 @@
+Milestone1
+
+Radu
+- trebuie sa alegem coloanele pe care le vom folosit din dataset , ca sa selectam ce ne trebuie pentru analiza datelor , eliminam duplicate , trebuie verificate tipurile de date si le transformam in Nan 
+
+corina 
+- contruirea setului de analiza 
+- analiza distributiilor diferentele dintre grupuri, grafice 
+
+toti
+- interpretarea graficelor 
+
+alessia
+- interpretare dupa mediile de grupuri 
+- profil grupuri consumatori 
+
+( sa aduca fiecare o ipoteza , si in functie de rezuzltatele obtinute , ca prima ipoteza sa luam asa: o histograma cu datele asa cum sunt (cu NaN cu tot) si ca uite arata prost. asta va fi prima ipoteza : ca datele sunt proaste ca avem NaN uri in ele. apoi eliminarea lor si grafic/histrogama noua)
+
+Corina
+Pregatirea datelor pentru modelare 
+- comparative intre modele de regresie pentru PULSE 
+
+Alessia - analiza de clasificare pentru high puldr 
+- evalurea si interpretarea modelarii
